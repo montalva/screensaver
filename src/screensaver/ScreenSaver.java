@@ -37,6 +37,7 @@ public class ScreenSaver {
         }
         System.out.println("lala");
         System.out.println("lala");
+        System.out.println("lala");
         for (int i = 0; i < 4; i++) {
             p[i].start();
         }
