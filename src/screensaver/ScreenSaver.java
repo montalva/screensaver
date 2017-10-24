@@ -35,7 +35,7 @@ public class ScreenSaver {
             p[i] = new Pelota((int) (Math.random() * 300) + 100, (int) (Math.random() * 300) + 100, 1, size, i);
 
         }
-
+        System.out.println("lala");
         for (int i = 0; i < 4; i++) {
             p[i].start();
         }
